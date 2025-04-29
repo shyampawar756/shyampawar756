@@ -1,4 +1,4 @@
-# Hi there, I'm [Your Name] 👋
+# Hi there, I'm Shyamsundar Pawar 👋
 
 **Process Executive @ Nvidia | Aspiring Full Stack Developer | AI Data Annotation Specialist**
 
@@ -18,9 +18,6 @@
 > *(Add links to your projects once you upload them to GitHub)*
 
 - **Personal Finance Tracker** – Built with React + Node.js  
-- **Auto-Starter for 3-Phase Water Pump** – IoT Project  
-- **Mini Flutter App** – Cross-platform mobile app demo  
-
 ## 📫 Connect with Me
 - Email: [your.email@example.com]  
 - LinkedIn: [linkedin.com/in/your-profile](#)  
