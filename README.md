@@ -19,8 +19,8 @@
 
 - **Personal Finance Tracker** – Built with React + Node.js  
 ## 📫 Connect with Me
-- Email: [your.email@example.com]  
-- LinkedIn: [linkedin.com/in/your-profile](#)  
+- Email: shyampawar756@gmail.com  
+- LinkedIn:   https://www.linkedin.com/in/shyamsundar-pawar-537611159?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
 - Portfolio: [your-portfolio-link](#) *(Coming soon)*
 
 ---
